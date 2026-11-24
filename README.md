@@ -1,3 +1,12 @@
+# as-crc32c
+
+Ansible Messenger — вычисление CRC32C.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [google/crc32c](https://github.com/google/crc32c), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # CRC32C
 
 [![Build Status](https://github.com/google/crc32c/actions/workflows/build.yml/badge.svg)](https://github.com/google/crc32c/actions/workflows/build.yml)
